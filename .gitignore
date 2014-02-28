@@ -33,4 +33,5 @@ bin/
 /themes/*
 !/themes/bootstrap
 !/themes/typographic
+!/themes/plain
 gems/
